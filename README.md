@@ -40,6 +40,8 @@ todo?
 
 ## Git Config
 ![screenshot](/docs/img/Clave_ssh.png)
+![screenshot](/docs/img/Perfil.png)
+![screenshot](/docs/img/Profile_picture.png)
 
 ## Licence
 
